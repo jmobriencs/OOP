@@ -1,2 +1,2 @@
 # OOP
-Projects from the CISP 40 Object Oriented Programming course at Consumes River College
+Projects from the CISP 400 Object Oriented Programming course at Consumes River College
