@@ -1,4 +1,4 @@
-//CISP400V10A1.cpp 
+// CISP400V10A1.cpp 
 // Test program for modified GradeBook class.
 
 #include <iostream>
